@@ -5,7 +5,7 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-//1233333
+//12333334
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
