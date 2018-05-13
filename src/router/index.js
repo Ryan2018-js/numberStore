@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 
 Vue.use(Router)
-
+//123
 export default new Router({
   routes: [
     {
