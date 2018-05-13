@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 
 Vue.use(Router)
-//12345556
+//1234555678
 export default new Router({
   routes: [
     {
